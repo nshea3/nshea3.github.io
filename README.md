@@ -1,6 +1,9 @@
-# whoami
+# Hello and welcome :wave:
 
-- Perpetual student (currently @ Georgia Tech, previously Mines ParisTech, University of Arizona)
-- Data science and engineering @ [BlueConduit](https://www.blueconduit.com/)
+## `whoami`
+
+- Engineer + full stack data scientist
+- Data Science and Engineering @ [BlueConduit](https://www.blueconduit.com/)
+- Perpetual student (currently @ Georgia Tech, previously Mines ParisTech, Georgia Tech, University of Arizona)
 
 [My blog is available here](https://nshea3.github.io/blog/)
