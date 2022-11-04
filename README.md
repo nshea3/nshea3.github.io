@@ -1,4 +1,4 @@
-# Hello and welcome :wave:
+# Hello and welcome &#128075;
 
 ## `whoami`
 
